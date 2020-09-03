@@ -1,0 +1,8 @@
+/* register page css */
+.divback{
+    background-size: cover;
+    background-image: url(./images/signuppic.jpg);
+    height: 560px;
+    width: auto;
+    margin-top: 0em;
+}
