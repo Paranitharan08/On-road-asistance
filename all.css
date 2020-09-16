@@ -1,0 +1,24 @@
+/* register page css */
+.divback{
+    /* background-size: cover; */
+    /* background-image: url(./images/signuppic.jpg); */
+    height: 660px;
+    width: auto;
+}
+
+/* Admin page css */
+.bg{
+    background-image: url(./images/adminpic1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+};
+
+.homebg{
+    background-image: url(./images/car1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+};
